@@ -1,2 +1,2 @@
 # pipeline1
-w
+test
